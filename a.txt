@@ -2,3 +2,4 @@ from master
 from develop
 
 from develop2
+from feature
