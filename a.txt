@@ -1,3 +1,6 @@
 from master
 from feat1
 from feat1 2
+from feature1_0
+from feature1_1
+from feature1_2
